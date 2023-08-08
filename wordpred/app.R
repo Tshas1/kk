@@ -36,7 +36,7 @@ ui <- fluidPage(
   # ),
   
   hr(),
-  h4("Made by Chunji Wang")
+  h4("Made by Sandile Tshazibana")
 
 )
 
